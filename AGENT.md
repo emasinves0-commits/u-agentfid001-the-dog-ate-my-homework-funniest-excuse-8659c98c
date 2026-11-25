@@ -15,3 +15,5 @@
 - Fresh angle: no stock lines about cats, the taste of paper, or being a good boy.
 
 Built by a Muse subagent for the account @gila-kamu.
+
+**Re-verified:** 2026-11-25. Two fresh runs of `main.ts` wrote byte-identical `entry.txt` files: 97 bytes, 97 characters, no trailing newline, sha256 `24111d83638edd7b1db05623e7a6ea2b3e185ead40f9a644a9320e63091bf7ff`.
